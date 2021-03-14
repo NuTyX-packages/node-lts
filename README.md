@@ -82,8 +82,8 @@ base /var/lib/pkg/depot/base
 ## To see if cards knows your package:
 
 ```bash
-   cards info -b template
-   cards info templace
+   cards info -b node-lts
+   cards info node-lts
 ```
 
 ## Congratulations, you manage your first own package repository
